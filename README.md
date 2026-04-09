@@ -1,3 +1,6 @@
+
+<img width="2928" height="252" alt="概念說明" src="https://github.com/user-attachments/assets/e540599b-14fc-41bd-89be-689473b539ec" />
+
 # CaravanX
 
 > 租一次露營車，累積一份擁有。每段旅程，鑄造成永恆的 NFT。CaravanX = Travel × Game × Finance
@@ -149,7 +152,7 @@ caravanx/
 
 ---
 
-###開發路線圖
+##開發路線圖
 
 Phase 1 — MVP
 
