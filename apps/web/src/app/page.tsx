@@ -240,6 +240,7 @@ function OwnershipIcon() {
                   <span>Journey NFTs</span>
                   <span>12</span>
                 </div>
+                
                 <div className="flex items-center justify-between">
                   <span>Ownership credits</span>
                   <span>840</span>
@@ -665,4 +666,7 @@ export default function Home() {
       </section>
     </main>
   );
+  
 }
+
+
